@@ -1,0 +1,27 @@
+.white-text{
+    color:white;
+}
+
+.yellow-text{
+    color: #f1c40f;
+}
+
+.orange-text{
+    color: #f39c12;
+}
+
+.red-text{
+    color: #e74c3c;
+}
+
+.blue-text{
+    color: #3498db;
+}
+
+.purple-text{
+    color: #9b59b6;
+}
+
+body{
+    background: #2c3e50;
+}

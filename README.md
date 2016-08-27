@@ -1,7 +1,7 @@
 **Angular 2 Class Time Table**
 
-My first Angular 2 app, it provides simple way to create time table of
-your course at uni/high school.
+My first Angular 2 app, it provides a simple way to create time table of
+your courses at uni/high school.
 
 **Parts I've covered and reinforced by building this app**
 
